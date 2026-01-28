@@ -1,0 +1,13 @@
+sleep_band,burnout_risk,employees,avg_productivity,avg_stress
+"01) <5 hours",High,452,41.01,7.09
+"02) 5–6 hours",High,143,33.73,8.21
+"02) 5–6 hours",Low,430,57.70,4.60
+"02) 5–6 hours",Medium,607,45.53,6.40
+"03) 6–7 hours",High,38,36.53,8.08
+"03) 6–7 hours",Low,1111,60.08,4.30
+"03) 6–7 hours",Medium,580,46.61,6.27
+"04) 7–8 hours",High,3,30.67,8.00
+"04) 7–8 hours",Low,1057,63.74,3.78
+"04) 7–8 hours",Medium,153,47.66,6.15
+"05) >8 hours",Low,417,68.40,3.11
+"05) >8 hours",Medium,9,52.11,6.11

@@ -1,0 +1,9 @@
+department,total_emp,high_burnout,high_burnout_pct,risk_rank
+HR,577,83,14.38,1
+Sales,579,79,13.64,2
+Finance,650,86,13.23,3
+Product,606,77,12.71,4
+Support,623,77,12.36,5
+Operations,625,77,12.32,6
+Marketing,703,84,11.95,7
+Engineering,637,73,11.46,8
